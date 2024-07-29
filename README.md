@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Fun fact: perros>gatos
+
 
 
 
