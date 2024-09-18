@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**rivacortez/rivacortez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Skills 
+#### Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=java,c,cpp,javascript,typescript,cs)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+#### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=angular,spring,nodejs)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Databases
+[![Database](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
+
+#### Development Tools
+[![Development Tools](https://skillicons.dev/icons?i=git,github,gradle,npm)](https://skillicons.dev)
+
+#### Integrated Development Environments
+[![Integrated Development Environments](https://skillicons.dev/icons?i=androidstudio,idea,vscode)](https://skillicons.dev)
+
+#### Design Tools
+[![Design Tools](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+#### Operating Systems
+[![Design Tools](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+
