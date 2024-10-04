@@ -10,10 +10,10 @@
 [![Database](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
 
 #### Development Tools
-[![Development Tools](https://skillicons.dev/icons?i=git,github,gradle,npm)](https://skillicons.dev)
+[![Development Tools](https://skillicons.dev/icons?i=git,github,gradle,npm,postman)](https://skillicons.dev)
 
 #### Integrated Development Environments
-[![Integrated Development Environments](https://skillicons.dev/icons?i=androidstudio,idea,vscode)](https://skillicons.dev)
+[![Integrated Development Environments](https://skillicons.dev/icons?i=androidstudio,idea,vscode,webstorm,rider)](https://skillicons.dev)
 
 #### Design Tools
 [![Design Tools](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
