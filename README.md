@@ -28,7 +28,5 @@
   <img alt="github-snake" src="assets/github-snake-dark.svg" />
 </picture>
 
-<p align="right">
-    <img src="https://visitcount.itsvg.in/api?id=rivacortez&label=Profile%20Views&pretty=true&color=blue">
-</p>
+
 
